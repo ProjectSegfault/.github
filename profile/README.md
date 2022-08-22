@@ -6,3 +6,4 @@ Check out our [website](https://projectsegfau.lt) for more info!
 Also check out our [instances](https://instances.projectsegfau.lt/) page for the services we host.
 
 And finally, our [Git server.](https://git.projectsegfau.lt/ProjectSegfault/)
+(Currently, only midou uses the git server, and is also the most updated one.)
